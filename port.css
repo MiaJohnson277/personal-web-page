@@ -1,0 +1,176 @@
+Body {
+	background-color: white;
+	Margin:0px;
+}
+
+.centercontent{
+	height: 100%;
+	width: 1000px;
+	Margin top: 0px;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-left: auto;
+	background-color:;
+}
+
+.header {
+height: 500px;
+width: 100%;
+background-color: ;
+text-align: Center;  
+padding-top: 20px;  
+}
+
+.headerone{
+	height: 50px;
+	width: 375px;
+	background-color: ;
+	margin-top: -25px;
+
+}
+
+.textsection{
+	height: 100px;
+	width: 100%;
+	background-color: ;
+	text-align: center;
+	padding-top: 20px;
+	margin-top: ;
+	text-align: 
+}
+.mainarea{
+	height: 2300px;
+	width: 100%;
+	background-color: #E8E8E8;
+}
+
+.secondmainarea{
+	height: 1250px;
+	width: 980px;
+	background-color: ;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+.thirdmainarea{
+	height: 900px;
+	width: 980px;
+	background-color: ;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+.subheader{
+	height: 50px;
+	width: 800px;
+	background-color: ;
+	margin-left: 10px;
+}
+
+.onebox{
+	height:400px;
+	width: 310px;
+	Margin left: px;
+	margin-right: 10px;
+	margin-top: 30px;
+	float: left;
+	text-align: Center;	
+	font-family: "Playfair Display", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  background-color: white;
+
+  font-size: 13px;
+  line-height: 28px;
+}
+
+.tagcol{
+	height: 200px;
+	width: 600px;
+	background-color: ;
+	margin-top: 30px;
+	margin-left: 350px;
+}
+
+.tagcoltwo{
+	height: 200px;
+	width: 650px;
+	background-color: ;
+	margin-top: 10px;
+	margin-left: 350px;
+}
+
+.twocol{
+	height: 475px;
+	width: 400px;
+	margin-left: 60px;
+	float: left;
+	background-color: ;
+	text-align: left;
+
+}
+
+.root{
+	height:250px;
+	width: 400px;
+	background-color: ;
+	margin-left: px;
+	margin-top: 30px;
+}
+
+.roottwo{
+	height:250px;
+	width: 400px;
+	background-color: ;
+	margin-left: px;
+	margin-top: 10px;
+}
+
+.rootjar{
+ height:500px;
+	width: 400px;
+  background-color: ;
+  margin-left: 350px;
+  margin-top: -580px;
+
+}
+
+.bookcol{
+	height: 800px;
+	width:300px;
+	background-color: ;
+	margin-top: 30px;
+	margin-left: 15px;
+	float: left;
+
+
+}
+
+
+h1{
+  font-family: "Roboto", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" <width>;
+}
+h2{
+	font-family: "Roboto", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 100;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+
+
+h5{
+  font-family: "Bodoni Moda", serif;
+  font-optical-sizing: px;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 10px;
+}
+
+
